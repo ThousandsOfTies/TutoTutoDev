@@ -13,7 +13,7 @@ REPOS_DIR := repos
 # 形式: リポジトリ名|GitHubユーザー/リポジトリ|ブランチ
 REPOSITORIES := \
 	drawing-common|ThousandsOfTies/drawing-common|main \
-	home-teacher-core|ThousandsOfTies/home-teacher-core|dev
+	home-teacher-core|ThousandsOfTies/home-teacher-core|main
 
 # リポジトリ情報を解析するヘルパー関数
 define get_repo_info
